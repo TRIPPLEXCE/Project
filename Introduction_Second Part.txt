@@ -1,0 +1,6 @@
+1.3. Overview of Document 
+
+Section 2 (Overall Description section) gives an overall description of 
+the website and explains the key differences between customers and company clients. 
+Section 3, (Specific Requirement section), contains information about the specific requirements 
+the website is expected to deliver. Functional requirements are given by various use cases.
