@@ -8,4 +8,3 @@ Team “TRIPPLEXCE”
 The purpose of this document is to present a detailed description and information about the Coupon Website (hereinafter called Website, Company or Organization). It will explain the purpose and features of the website, as well as its interface.
 1.2. Scope of the project
 This website is designed for both customers and companies. On the one hand, the website is intended to help users save money by giving them the opportunity to buy products and services at discounted prices provided by brands and organizations. On the other hand, it gives companies the opportunity to introduce their products to large audience in exchange for small fee which is paid to the coupon website.
-asdasdasdds
