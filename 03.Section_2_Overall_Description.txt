@@ -1,0 +1,23 @@
+2.0 Overall Description
+
+2.1 Website purpose
+
+The website aims towards two different types of clients. 
+It cannot operate if either of those is not present. The first type, 
+which we will simply call Customer, is using the website for personal use. 
+The second type, which we choose to name Company Client, is using the website for business aims.
+
+2.1.1 Customers
+
+Customers can browse different categories and find offers which match their taste. 
+After finding the desired offer customers can buy coupons with discounted prices. 
+Customers have access to all coupon offers in the website and are able to choose from a big variety of offers. 
+The only requirement for customers is to register.
+
+2.1.2 Company Clients
+
+Company clients are able to deliver their products to large customer audience which can be very beneficial for their business. 
+They have to make an offer of a particular product or service which is then presented on the website and can be viewed from everyone 
+(even from visitors which do not have registration) but accessed and purchased only by registered users. 
+However, company clients should apply and be approved by the organization first. 
+Otherwise their offer will not be displayed on the website.

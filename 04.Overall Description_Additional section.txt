@@ -1,0 +1,7 @@
+2.2. System Environment
+	
+Both customers and companies access the website through internet from a particular URL. 
+However, once accessed the website, companies should go to a section, designed specifically 
+for them where they have to fill in a request form and after that waiting for approval before 
+they can work with the organization. Customers on the other hand have to register but do not have 
+to wait for approval from the organization.
