@@ -1,31 +1,38 @@
 3.1.4 Use Case 4 (Choosing an offer)
+
 When an offer is clicked on, a new page loads. 
 The new page displays a picture of the product/service in the upper section of the screen, 
 description text under it (with more details), social media section where users can share the 
 offer on their social media profiles, buy button and comment section where users share their thoughts of the offer.
+
 3.1.5 Use Case 5 (Buying a voucher)
+
 Users can buy a voucher by clicking the buy button stated in section 3.1.4. 
 When a user click on that button, new page loads. It contains information of the ways the voucher can be paid, 
 e.g. debit card, credit card, etc. When the voucher is paid, new page loads. 
 It contains unique ID of the voucher as well as a print button. When clicked on, users can print their vouchers or 
 save a pdf file with the voucher on their computers.
+
 3.1.6 Use Case 6 (Registration for new users)
+
 For using the full functionality of the website, users should register. 
 This can be done by filling registration form which can be accessed by clicking small 
 text on the right side of the registration field named “registration for new users”. 
 When clicked, new page loads. Users are able to choose from two options. The first one 
 is for standard users and the second one is for company clients.
+
 3.1.6.1 Use Case 7 (Standard user registration)
+
 If standard user registration option is chosen, a new page loads. It contains various fields for 
 users to fill e.g. first name, last name, username, password, e-mail address and phone number. 
 On the bottom of the screen there is a button named “register”. After all the fields are filled and the 
 register button is clicked users should receive an e-mail with conformation link. When the link is clicked, 
 the registration is finished and users have full access to the website.
+
 3.1.6.2 Use Case 8 (Company Clients Registration) 
-If registration option for company clients is chosen, a new page loads. 
-It contains fields for users to fill, e.g. company name, username, password, 
-e-mail address and phone number. On the bottom of the screen there is a button named “register”. 
-After all the fields are filled and register button is clicked users should receive an e-mail with conformation link. 
+
+If registration option for company clients is chosen, a new page loads. It contains fields for users to fill, e.g. company name, username, password, 
+e-mail address and phone number. On the bottom of the screen there is a button named “register”. After all the fields are filled and register button is clicked users should receive an e-mail with conformation link. 
 When clicked the registration is finished but company clients do not have full access to the functionality of the 
 website yet. When the website is loaded again, a new “apply for partnership” message appears right below the main 
 upper tab. When clicked, a new page loads. Users can find a message form which have to be filled in order to apply 
