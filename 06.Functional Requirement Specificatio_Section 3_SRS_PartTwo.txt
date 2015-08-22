@@ -2,7 +2,7 @@
 
 Users can buy a voucher by clicking the buy button stated in section 3.1.4. When a user click on that button, 
 new page loads. It contains information of the ways the voucher can be paid, e.g. debit card, credit card, etc. 
-When the voucher is paid, new page loads. It contains unique ID of the voucher as well as a print button. When clicked 
+When the voucher is paid, new page loads. It contains unique ID of the voucher, as well as a print button. When clicked 
 on, users can print their vouchers or save a pdf file with the voucher on their computers.
 
 3.1.7 Use Case 7 (Registration for new users)
