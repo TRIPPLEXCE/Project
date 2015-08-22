@@ -29,7 +29,7 @@ On the bottom of the screen there is a button named “register”. After all the fi
 register button is clicked users should receive an e-mail with conformation link. When the link is clicked, 
 the registration is finished and users have full access to the website.
 
-3.1.6.2 Use Case 8 (Company Clients Registration) 
+3.1.6.2 Use Case 8 (Company clients registration) 
 
 If registration option for company clients is chosen, a new page loads. It contains fields for users to fill, e.g. company name, username, password, 
 e-mail address and phone number. On the bottom of the screen there is a button named “register”. After all the fields are filled and register button is clicked users should receive an e-mail with conformation link. 
@@ -39,4 +39,15 @@ upper tab. When clicked, a new page loads. Users can find a message form which h
 for partnership. Under the message field, a user agreement link can be found. Right under the agreement link there 
 is a checkbox with text next to it stating “I understand and accept the user agreement”. Users have to click on the 
 checkbox and then they are able to send their request. If approved, company clients become partners and are able to 
-place their voucher offers on the website. 
+place their voucher offers on the website.
+
+3.1.7 Use Case 9 (Placing voucher offers)
+When company clients are accepted in the program and become partners they are able to easily place voucher offers 
+on the website so that everybody can see them (even not registered users). In order to do that, they should click on 
+their profile tab in the main upper tab and then click on the “place an offer” button. When the button is clicked, 
+new page loads. It displays many options to choose from, e.g. how much time till the offer expires (the user can choose 
+between 24, 36 and 48 hours), section for uploading pictures (at least one is mandatory), information section (should 
+provide information about the service/product) and price section. After all the fields are filled and all options are 
+selected, users click “place your offer” button, which is located on the bottom of the screen. After that the new offer 
+should appear on the website in less than 24 hours.
+ 
