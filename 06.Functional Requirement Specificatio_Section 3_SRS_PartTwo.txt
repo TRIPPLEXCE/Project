@@ -1,53 +1,45 @@
-3.1.4 Use Case 4 (Choosing an offer)
+3.1.6 Use Case 6 (Buying a voucher)
 
-When an offer is clicked on, a new page loads. 
-The new page displays a picture of the product/service in the upper section of the screen, 
-description text under it (with more details), social media section where users can share the 
-offer on their social media profiles, buy button and comment section where users share their thoughts of the offer.
+Users can buy a voucher by clicking the buy button stated in section 3.1.4. When a user click on that button, 
+new page loads. It contains information of the ways the voucher can be paid, e.g. debit card, credit card, etc. 
+When the voucher is paid, new page loads. It contains unique ID of the voucher as well as a print button. When clicked 
+on, users can print their vouchers or save a pdf file with the voucher on their computers.
 
-3.1.5 Use Case 5 (Buying a voucher)
+3.1.7 Use Case 7 (Registration for new users)
 
-Users can buy a voucher by clicking the buy button stated in section 3.1.4. 
-When a user click on that button, new page loads. It contains information of the ways the voucher can be paid, 
-e.g. debit card, credit card, etc. When the voucher is paid, new page loads. 
-It contains unique ID of the voucher as well as a print button. When clicked on, users can print their vouchers or 
-save a pdf file with the voucher on their computers.
+For using the full functionality of the website, users should register. This can be done by filling registration 
+form which can be accessed by clicking small text on the right side of the registration field named “registration 
+for new users”. When clicked, new page loads. Users are able to choose from two options. The first one is for standard 
+users and the second one is for company clients.
 
-3.1.6 Use Case 6 (Registration for new users)
+3.1.7.1 Use Case 8 (Standard user registration)
 
-For using the full functionality of the website, users should register. 
-This can be done by filling registration form which can be accessed by clicking small 
-text on the right side of the registration field named “registration for new users”. 
-When clicked, new page loads. Users are able to choose from two options. The first one 
-is for standard users and the second one is for company clients.
+If standard user registration option is chosen, a new page loads. It contains various fields for users to fill e.g. 
+first name, last name, username, password, e-mail address and phone number. On the bottom of the screen there is a 
+button named “register”. After all the fields are filled and the register button is clicked users should receive an 
+e-mail with conformation link. When the link is clicked, the registration is finished and users have full access to 
+the website.
 
-3.1.6.1 Use Case 7 (Standard user registration)
+3.1.7.2 Use Case 9 (Company clients registration) 
 
-If standard user registration option is chosen, a new page loads. It contains various fields for 
-users to fill e.g. first name, last name, username, password, e-mail address and phone number. 
-On the bottom of the screen there is a button named “register”. After all the fields are filled and the 
-register button is clicked users should receive an e-mail with conformation link. When the link is clicked, 
-the registration is finished and users have full access to the website.
+If registration option for company clients is chosen, a new page loads. It contains fields for users to fill, e.g. 
+company name, username, password, e-mail address and phone number. On the bottom of the screen there is a button named 
+“register”. After all the fields are filled and register button is clicked users should receive an e-mail with 
+conformation link. When clicked the registration is finished but company clients do not have full access to the 
+functionality of the website yet. When the website is loaded again, a new “apply for partnership” message appears 
+right below the main upper tab. When clicked, a new page loads. Users can find a message form which have to be filled 
+in order to apply for partnership. Under the message field, a user agreement link can be found. Right under the agreement
+ link there is a checkbox with text next to it stating “I understand and accept the user agreement”. Users have to click 
+on the checkbox and then they are able to send their request. If approved, company clients become partners and are able 
+to place their voucher offers on the website.
 
-3.1.6.2 Use Case 8 (Company clients registration) 
+3.1.8 Use Case 10 (Placing voucher offers)
 
-If registration option for company clients is chosen, a new page loads. It contains fields for users to fill, e.g. company name, username, password, 
-e-mail address and phone number. On the bottom of the screen there is a button named “register”. After all the fields are filled and register button is clicked users should receive an e-mail with conformation link. 
-When clicked the registration is finished but company clients do not have full access to the functionality of the 
-website yet. When the website is loaded again, a new “apply for partnership” message appears right below the main 
-upper tab. When clicked, a new page loads. Users can find a message form which have to be filled in order to apply 
-for partnership. Under the message field, a user agreement link can be found. Right under the agreement link there 
-is a checkbox with text next to it stating “I understand and accept the user agreement”. Users have to click on the 
-checkbox and then they are able to send their request. If approved, company clients become partners and are able to 
-place their voucher offers on the website.
-
-3.1.7 Use Case 9 (Placing voucher offers)
 When company clients are accepted in the program and become partners they are able to easily place voucher offers 
-on the website so that everybody can see them (even not registered users). In order to do that, they should click on 
-their profile tab in the main upper tab and then click on the “place an offer” button. When the button is clicked, 
+on the website so that everybody can see them (even not registered users). In order to do that, they should click 
+on their profile tab in the main upper tab and then click on the “place an offer” button. When the button is clicked, 
 new page loads. It displays many options to choose from, e.g. how much time till the offer expires (the user can choose 
 between 24, 36 and 48 hours), section for uploading pictures (at least one is mandatory), information section (should 
 provide information about the service/product) and price section. After all the fields are filled and all options are 
 selected, users click “place your offer” button, which is located on the bottom of the screen. After that the new offer 
 should appear on the website in less than 24 hours.
- 

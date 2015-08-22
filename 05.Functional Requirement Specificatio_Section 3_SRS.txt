@@ -1,38 +1,38 @@
-3.0. Functional Requirement Specification
-
-3.1. Functional Requirements
-
-We describe the functional requirements by giving various use cases.
-
 3.1.1 Use Case 1 (Accessing the website)
 
-The website is accessed through its initial URL. 
-It loads upper tab where website’s logo on the left side and login field on the right 
-side can be found and also a category tab on the left where users can find all voucher categories. 
-When logged in, the login form is replaced by user tab with user’s first name on it and small arrow 
-pointing down, which when clicked on, new tab expanding downward is displayed. It shows profile information, 
-vouchers, messages, user’s settings and exit button, in descending order. 
+The website is accessed through its initial URL. When it is loaded, upper tab where website’s logo 
+on the left side and login field on the right side can be found and also a category tab on the left 
+where users can find all voucher categories. When logged in, the login form is replaced by user tab 
+button with user’s username on it and small arrow pointing down, which when clicked on, new tab expanding 
+downward is displayed. It shows profile information, vouchers, messages, user’s settings and exit button, 
+in descending order. 
 
-3.1.2 Use Case 2 (Offers shown)
+3.1.2 Use Case 2 (Login)
+
+Users should fill the login field with their username and password, which they have chosen when registering. 
+After that the login button, which is on the right side of the login form, should be clicked. A new page loads 
+and instead of the login form users can find their user tab button as stated in Use Case 1.
+
+3.1.3 Use Case 3 (Offers shown)
 
 On the central section of the screen various voucher offers are displayed in horizontal rows in descending order. 
 Every row includes four offers, any one of which is displayed by a picture and small text on it. There are arrows 
-on the left and right side of the rows which when clicked on, the row moves to left or right and another offer is shown. 
-Every row shows different category. There are four categories: newest, most popular, most viewed and all categories.
+on the left and right side of the rows which when clicked on, the particular row moves to left or right and another 
+offer is shown. Every row shows different offers category. There are four categories: newest, most popular, most viewed 
+and all categories.
 
-3.1.3 Use Case 2 (Loading a category)
+3.1.4 Use Case 4 (Loading a category)
 
-As stated in section 3.1.2, when the website loads, category tab on the left side of the screen is displayed. 
+As stated in section 3.1.1, when the website loads, category tab on the left side of the screen is displayed. 
 When clicked on certain category, items from this category are shown on the central part of the screen. Above 
-the offers, on the upper left side of screen, below the main upper screen, new tab with arrow pointing down is displayed. 
-When clicked on, the tab expands downward and users can choose between newest, most popular and most viewed offers of the 
-category they have chosen. Every offer is displayed by a picture and description text under it. Under the text there is 
-the price of the voucher in bold text. In the lowest part of the offer information of how much time remains till the 
-offer expires as well as how many vouchers are bought till now can be found.
+the offers, on the upper left side of screen, below the main upper screen, new small tab with arrow pointing down 
+is displayed. When clicked on, the tab expands downward and users can choose between newest, most popular and most 
+viewed offers of the category they have chosen. Every offer is displayed by a picture and description text under it.
+ Under the text there is the price of the voucher in bold text. In the lowest part of the offer information of how much
+ time remains till the offer expires as well as how many vouchers are bought till now can be found.
 
-3.1.4 Use Case 3 (Choosing an offer)
+3.1.5 Use Case 5 (Choosing an offer)
 
-When an offer is clicked on, a new page loads. 
-The new page displays a picture of the product/service in the upper section of the screen, 
-description text under it (with more details), social media section where users can share the offer 
-on their social media profiles, buy button and comment section where users share their thoughts of the offer.
+When an offer is clicked on, a new page loads. The new page displays a picture of the product/service in the upper 
+section of the screen, description text under it (with more details), social media section where users can share the 
+offer on their social media profiles, buy button and comment section where users share their thoughts of the offer.
